@@ -1,4 +1,6 @@
---outcs<"\nBenvenuto!";
---getcs>"Inserisci il tuo nome: ";
---outf[l,"data.txt"];
-wrtf[l,"data.txt"]<"iscrivetevi al canale!";
+--this is a commment
+
+outcs<"Welcome in the app!";
+getcs>"Here you can insert your name: ";
+outf[l,"data.txt"];
+wrtf[l,"data.txt"]<"subscribe to my channel!";
