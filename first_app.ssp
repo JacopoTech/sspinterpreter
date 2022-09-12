@@ -1,0 +1,4 @@
+--outcs<"\nBenvenuto!";
+--getcs>"Inserisci il tuo nome: ";
+--outf[l,"data.txt"];
+wrtf[l,"data.txt"]<"iscrivetevi al canale!";
